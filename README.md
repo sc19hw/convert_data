@@ -10,5 +10,5 @@
 ***  
 The rest five txt files are the result of the resolution.  
 
-And the [corpus.csv](corpus.csv) file is the final result after I combined the five TXT files and modified the format.
+And the [corpus_final.csv](corpus_final.csv) file is the final result after I combined the five TXT files and modified the format.
 
